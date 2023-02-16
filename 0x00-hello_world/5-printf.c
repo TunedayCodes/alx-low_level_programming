@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - this main functions prints a given txt
+ * main - this is the main function that prints a given text
  *
- * Retun: 0 when the function is succesful
+ * Retun: 0 when the function is successful
  */
 int main(void)
 {
